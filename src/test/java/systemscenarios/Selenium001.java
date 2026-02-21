@@ -10,6 +10,14 @@ public class Selenium001 {
         // Browser Driver | Server (application running on a particular port )
         // Browser Driver -> Real Driver
 
+        // Selenium 3
+        // Download the driver binary
+        // System.getProperty ---- start the binary
+
+        // Selenium 4
+        // Selenium manager (application)
+        // Selenium will automatically download the drivers and start
+
         ChromeDriver driver = new ChromeDriver();
         driver.get("https://app.vwo.com");
     }
