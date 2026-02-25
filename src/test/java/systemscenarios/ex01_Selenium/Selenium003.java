@@ -1,7 +1,4 @@
-package systemscenarios;
-
-import org.openqa.selenium.SearchContext;
-import org.openqa.selenium.WebDriver;
+package systemscenarios.ex01_Selenium;
 
 public class Selenium003 {
     public static void main(String[] args) {

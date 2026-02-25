@@ -1,4 +1,4 @@
-package systemscenarios;
+package systemscenarios.ex01_Selenium;
 
 import org.openqa.selenium.chrome.ChromeDriver;
 
