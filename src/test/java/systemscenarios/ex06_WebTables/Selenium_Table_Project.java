@@ -74,8 +74,8 @@ public class Selenium_Table_Project {
         WebElement delete = driver.findElement(By.xpath("(//button/i[@class='oxd-icon bi-trash'])[2]"));
         delete.click();
 
-        Thread.sleep(5000);
-        driver.quit();
+       // Thread.sleep(5000);
+       // driver.quit();
 
     }
 
