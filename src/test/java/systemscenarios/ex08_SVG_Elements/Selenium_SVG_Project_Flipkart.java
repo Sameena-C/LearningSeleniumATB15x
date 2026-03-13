@@ -59,4 +59,5 @@ public class Selenium_SVG_Project_Flipkart extends CommonToAll {
         waitJVM(5000);
         closeBrowser(driver);
     }
+
 }
